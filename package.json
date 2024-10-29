@@ -1,0 +1,19 @@
+{
+  "name": "eth-messaging-hub",
+  "version": "1.0.0",
+  "description": "## Overview **eth-messaging-hub** is a decentralized messaging platform hosted on a Raspberry Pi. This project runs an Ethereum node to support a custom token-based messaging app, creating a unique communication network that incentivizes meaningful interactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/life423/eth-messaging-hub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/life423/eth-messaging-hub/issues"
+  },
+  "homepage": "https://github.com/life423/eth-messaging-hub#readme"
+}
