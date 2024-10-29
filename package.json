@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/life423/eth-messaging-hub/issues"
   },
-  "homepage": "https://github.com/life423/eth-messaging-hub#readme"
+  "homepage": "https://github.com/life423/eth-messaging-hub#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
